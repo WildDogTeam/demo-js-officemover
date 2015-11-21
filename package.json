@@ -1,0 +1,30 @@
+{
+  "name": "officemover",
+  "version": "0.0.1",
+  "description": "Office Mover Demo with Wilddog",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/WildDogTeam/demo-js-officemover.git"
+  },
+  "keywords": [
+    "Wilddog",
+    "Office Mover",
+    "Demo"
+  ],
+  "author": "Wilddog Inc.",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/WildDogTeam/demo-js-officemover/issues"
+  },
+  "homepage": "https://github.com/WildDogTeam/demo-js-officemover",
+  "devDependencies": {
+    "gulp": "^3.8.9",
+    "gulp-autoprefixer": "^1.0.1",
+    "gulp-connect": "^2.1.0",
+    "gulp-minify-css": "^0.3.11",
+    "gulp-open": "^0.3.0",
+    "gulp-sass": "^1.2.0",
+    "gulp-webpack": "^1.0.0",
+    "webpack": "^1.4.10"
+  }
+}

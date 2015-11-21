@@ -1,0 +1,28 @@
+{
+  "name": "web",
+  "version": "0.0.0",
+  "homepage": "https://github.com/WildDogTeam/demo-js-officemover",
+  "authors": [
+    "Jeen <lifujian@wilddog.com>"
+  ],
+  "private": true,
+  "dependencies": {
+    "wilddog": "0.4.7",
+    "font-awesome": "4.0.3",
+    "jquery": "1.9.1",
+    "jquery.validation": "1.11.1",
+    "lodash": "2.4.1",
+    "modernizr": "2.6.2",
+    "jquery-ui": "~1.11.2",
+    "normalize.css": "~3.0.2",
+    "animate.css": "~3.2.0"
+  },
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

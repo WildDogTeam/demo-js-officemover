@@ -28,12 +28,11 @@ officemover 需要 Wilddog 来同步和存储数据。您可以在这里[注册]
 
 ### 相关文档
 
-* [Wilddog 概览](https://z.wilddog.com/overview/guide)
+* [Wilddog 概览](https://z.wilddog.com/overview/introduction)
 * [JavaScript SDK快速入门](https://z.wilddog.com/web/quickstart)
-* [JavaScript SDK 开发向导](https://z.wilddog.com/web/guide/1)
 * [JavaScript SDK API](https://z.wilddog.com/web/api)
 * [下载页面](https://www.wilddog.com/download/)
-* [Wilddog FAQ](https://z.wilddog.com/faq/qa)
+* [Wilddog FAQ](https://z.wilddog.com/questions)
 * [新浪微博开放平台](http://open.weibo.com/)
 * [QQ 互联](http://connect.qq.com/)
 * [微信开放平台](https://open.weixin.qq.com/)
